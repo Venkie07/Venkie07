@@ -9,7 +9,7 @@
 ## 🧐 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=7A3FF7&center=true&vCenter=true&width=600&lines=Based+in+%E2%9C%8C%EF%B8%8F+Chennai;AI+%26+Data+Science+Student+(2024%E2%80%932028);Passionate+About+Deep+Learning+%26+Neural+Nets;Gamer+%7C+Sports+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=7A3FF7&center=true&vCenter=true&width=600&lines=Based+in+%E2%9C%8C%EF%B8%8F+Chennai;AI+%26+Data+Science+Student+(2024%E2%80%932028);Passionate+About+Coding;Gamer+%7C+Sports+Enthusiast" alt="Typing SVG" />
 </p>
 
 I'm a curious problem-solver who believes in balancing technical challenges with emotional intelligence. Whether I'm debugging code or exploring new concepts, I approach everything with passion and a growth mindset.
